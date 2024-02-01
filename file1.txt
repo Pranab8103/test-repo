@@ -2,3 +2,5 @@ this is file1
 
 change made from local
 added from remote
+
+this is merging with new1
